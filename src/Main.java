@@ -7,6 +7,7 @@ public class Main {
         Book fatherAndSons = new Book("Father & Sons", 1858, turgenev);
 
         woeFromWit.setYearOfPublication(1862);
+        System.out.println(woeFromWit);
     }
 }
 
